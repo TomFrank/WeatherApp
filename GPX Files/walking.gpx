@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    <!--
+     Provide one or more waypoints containing a latitude/longitude pair. If you provide one
+     waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
+     Xcode will simulate a route visiting each waypoint.
+
+     Optionally provide a time element for each waypoint. Xcode will interpolate movement
+     at a rate of speed based on the time elapsed between each waypoint. If you do not provide
+     a time element, then Xcode will use a fixed rate of speed.
+     
+     Waypoints must be sorted by time in ascending order.
+     -->
+    
+<!--    <wpt lat="37.331705" lon="-122.030237">-->
+<!--        <name>Cupertino</name>-->
+<!--        <time>2014-09-24T14:55:37Z</time>-->
+<!--    </wpt>-->
+
+
+    <wpt lat="39.758787247826184" lon="116.35661959648132">
+        <ele>43.14</ele>
+        <time>2019-10-02T13:45:01Z</time>
+    </wpt>
+    <wpt lat="39.75921646436793" lon="116.35664056487906">
+        <ele>43.44</ele>
+        <time>2019-10-02T13:45:35Z</time>
+    </wpt>
+    <wpt lat="39.75918737976549" lon="116.35509561248648">
+        <ele>43.50</ele>
+        <time>2019-10-02T13:47:09Z</time>
+    </wpt>
+    <wpt lat="39.75920387511911" lon="116.3479947266917">
+        <ele>44.00</ele>
+        <time>2019-10-02T13:54:22Z</time>
+    </wpt>
+    <wpt lat="39.762989394007676" lon="116.34802116781759">
+        <ele>42.73</ele>
+        <time>2019-10-02T13:59:22Z</time>
+    </wpt>
+    <wpt lat="39.7630153369181" lon="116.34035846139273">
+        <ele>43.17</ele>
+        <time>2019-10-02T14:07:09Z</time>
+    </wpt>
+    <wpt lat="39.763167357909495" lon="116.33517300438223">
+        <ele>43.31</ele>
+        <time>2019-10-02T14:12:25Z</time>
+    </wpt>
+    <wpt lat="39.76352127966612" lon="116.3317608833313">
+        <ele>44.52</ele>
+        <time>2019-10-02T14:15:55Z</time>
+    </wpt>
+</gpx>
